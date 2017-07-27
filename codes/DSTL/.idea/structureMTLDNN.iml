@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../analysisplot" />
+    <content url="file://$MODULE_DIR$/../auto_encoder_layerbylayer" />
+    <content url="file://$MODULE_DIR$/../keras" />
+    <content url="file://$MODULE_DIR$/../mtlDNN" />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../symMLN_earlystop" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

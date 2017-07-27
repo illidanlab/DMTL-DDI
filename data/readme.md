@@ -14,6 +14,6 @@
 
 > eventall_featlabel_clean_sym.npy
 
-> eventall_featlabel_clean_sym.npy
+> eventall_featlabel_clean_sym.mat
 
 
